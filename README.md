@@ -84,4 +84,7 @@ If you want to use the app without installing Python or running any terminal com
 
     Click "Convert to JPG".
     
+## Author
+
+[Marcus Podnar](https://marcus.podnar.ca) · [GitHub](https://github.com/TheCanadianYeti) · [LinkedIn](https://www.linkedin.com/in/marcus-podnar-582187260/)
 
