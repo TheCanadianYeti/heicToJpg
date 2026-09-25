@@ -53,7 +53,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install pillow pillow-heif
 ```
-# **Standalone Windows Executable (Easiest)          (.exe to be uploaded soon)** 
+# **Standalone Windows Executable (Easiest)         ** 
 
 If you want to use the app without installing Python or running any terminal commands:
 
