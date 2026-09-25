@@ -24,35 +24,35 @@ Features
 # **Installation**
 Clone the repository:
 Bash
-
+```
 git clone https://github.com/TheCanadianYeti/heicToJpg.git
 cd heicToJpg
-
+```
 # **Option 1: Quick Install (Easiest)**
 
 Install the required packages directly to your user folder with a single command:
 Bash
-
+```
 python -m pip install --user pillow pillow-heif
-
+```
 # **Option 2: Virtual Environment**
 
 If you prefer to keep dependencies isolated to this project folder:
 
 Windows (PowerShell):
 PowerShell
-
+```
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install pillow pillow-heif
-
+```
 Linux / macOS:
 Bash
-
+```
 python3 -m venv .venv
 source .venv/bin/activate
 pip install pillow pillow-heif
-
+```
 # **Standalone Windows Executable (Easiest)          (.exe to be uploaded soon)** 
 
 If you want to use the app without installing Python or running any terminal commands:
